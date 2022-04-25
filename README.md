@@ -3,7 +3,7 @@ _Exploratory Data Analysis &amp; ML Techniques Using R Studio_
 
 - ##### This was for a final project for a graduate-level Data Mining Class using R Studio, which required using a dataset to perform exploratory data analysis, supervised / unsupervised methods on the data.  Unlike most real-life situations, where the data needs tons of cleaning and data wrangling, this data was relatively clean and required just filling in the blanks where there were gaps.  Additionally, the test and training files were already provided within the dataset.  You can find the dataset here: [Airplane Passenger Satisfaction | Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction "Airplane Passenger Satisfaction | Kaggle")
 
-- ##### **The goal** of this project was to better understand which categories had a larger influence upon passenger satisfaction and to predict the satisfaction of airline passengers based on their different taggings and customer feedback
+- ##### **The goal** of this project was to better understand which categories had a larger influence upon passenger satisfaction and to predict the satisfaction of airline passengers based on their different taggings and customer feedback (using both categorical and numerical features)
 
 - ##### Please reference the files for the powerpoint and R code.
 
